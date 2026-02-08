@@ -43,6 +43,7 @@ All dependencies are listed in `requirements.txt`.
    pip install -r requirements.txt
 
 4. **Create a .env file in the project root:**
+   
    PERPLEXITY_API_KEY=your_perplexity_key_here
    TAVILY_API_KEY=your_tavily_key_here
    
