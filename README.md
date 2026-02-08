@@ -47,7 +47,6 @@ All dependencies are listed in `requirements.txt`.
 6. **Create a .env file in the project root:**
    ```bash
    PERPLEXITY_API_KEY=your_perplexity_key_here
-   
    TAVILY_API_KEY=your_tavily_key_here
    
 7. **Run the app**
