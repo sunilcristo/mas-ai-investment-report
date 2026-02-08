@@ -34,3 +34,21 @@ All dependencies are listed in `requirements.txt`.
    ```bash
    git clone https://github.com/yourusername/mas-ai-investment-report.git
    cd mas-ai-investment-report
+
+2. **Create and activate a virtual environment (optional but recommended)**
+   python -m venv .venv
+   source .venv/bin/activate   # on Windows: .venv\Scripts\activate
+   
+3. **Install dependencies**
+   pip install -r requirements.txt
+
+4. **Create a .env file in the project root**
+   PERPLEXITY_API_KEY=your_perplexity_key_here
+   TAVILY_API_KEY=your_tavily_key_here
+   
+6. **Run the app**
+   streamlit run app.py
+
+7. **Open the URL shown in the terminal (usually http://localhost:8501) in your browser.**
+
+
