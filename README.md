@@ -45,14 +45,15 @@ All dependencies are listed in `requirements.txt`.
    pip install -r requirements.txt
 
 6. **Create a .env file in the project root:**
-   
+   ```bash
    PERPLEXITY_API_KEY=your_perplexity_key_here
    
    TAVILY_API_KEY=your_tavily_key_here
    
 7. **Run the app**
+   ```bash
    streamlit run app.py
 
-8. **Open the URL shown in the terminal (usually http://localhost:8501) in your browser.**
+9. **Open the URL shown in the terminal (usually http://localhost:8501) in your browser.**
 
 
