@@ -36,14 +36,15 @@ All dependencies are listed in `requirements.txt`.
    cd mas-ai-investment-report
 
 2. **Create and activate a virtual environment (optional but recommended)**
-   
+   ```bash
    python -m venv .venv
    source .venv/bin/activate   # on Windows: .venv\Scripts\activate
    
 4. **Install dependencies**
+   ```bash
    pip install -r requirements.txt
 
-5. **Create a .env file in the project root:**
+6. **Create a .env file in the project root:**
    
    PERPLEXITY_API_KEY=your_perplexity_key_here
    
