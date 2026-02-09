@@ -48,11 +48,11 @@ All dependencies are listed in `requirements.txt`.
    ```bash
    PERPLEXITY_API_KEY=your_perplexity_key_here
    TAVILY_API_KEY=your_tavily_key_here
-   
+
 7. **Run the app**
    ```bash
    streamlit run app.py
 
 9. **Open the URL shown in the terminal (usually http://localhost:8501) in your browser.**
 
-
+[Watch the video](data/AI based investment report generator.mp4)
