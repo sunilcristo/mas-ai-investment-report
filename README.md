@@ -55,4 +55,6 @@ All dependencies are listed in `requirements.txt`.
 
 9. **Open the URL shown in the terminal (usually http://localhost:8501) in your browser.**
 
-[Watch the video](data/AI based investment report generator.mp4)
+10. **Watch the DEMO video**
+    (<data/AI based investment report generator.mp4>)
+
