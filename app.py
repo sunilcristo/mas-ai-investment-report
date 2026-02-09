@@ -44,7 +44,7 @@ def get_llm():
 @st.cache_resource
 def get_search_tool():
     return TavilySearchTool(
-        max_results=5,  # Reduce to avoid timeout
+        max_results=2,  # Reduce to avoid timeout
         include_answer=True,
     )
 
